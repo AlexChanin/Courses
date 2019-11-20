@@ -21,6 +21,7 @@ ctrl + shift + T    : открыть новую вкладку в термина
 ctrl + shift + W    : закрыть текущую вкладку терминала
 alt + <#>           : перейти в указанную вкладку терминала
 
+Ubuntu:
 super + A           : show all applications
 super + L           : lock screen
 super + S           : show overview
